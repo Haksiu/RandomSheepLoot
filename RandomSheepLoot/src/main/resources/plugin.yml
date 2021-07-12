@@ -1,0 +1,5 @@
+name: RandomSheepLoot
+version: ${project.version}
+main: com.h4ks1u.randomsheeploot.RandomSheepLoot
+api-version: 1.16
+authors: [ H4ks1u ]
